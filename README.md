@@ -5,10 +5,16 @@
 Hello! I'm Xiaorong, a passionate professional in data analytics, blending expertise in marketing and data science. I'm currently honing my skills and expanding my knowledge through a Master's in Management in Analytics at McGill University, with an anticipated graduation in December 2024.
 
 ## 🎓 Education
-- **Bachelor of Science in Business and Marketing, Business Analytics Track** - New York University Shanghai
 - **Master of Management in Analytics** - McGill University
+- **Bachelor of Science in Business and Marketing, Business Analytics Track** - New York University Shanghai
+
 
 ## 💼 Professional Experience
+- **Riverside Natural Foods Ltd.**
+
+  **Supply Chain Analyst - Supply Chain Team**
+  - Integrated Tableau with SAP database to generate reports on distressed inventory, outlier SKUs, and daily operations, leading to improved sales forecasts, reduced waste, proactive adjustments in production and sales strategies, and enhanced operational efficiency.
+
 - **Abercrombie & Fitch Co.**
 
   **Marketing Data Analyst - Consumer Relationship Management**
@@ -20,7 +26,7 @@ Hello! I'm Xiaorong, a passionate professional in data analytics, blending exper
 
 ## 🛠️ Skills
 - **Data Analytics, Marketing Strategy, Digital Marketing, etc.**
-- **Tools:** Python, SQL, R, Power BI, Tableau
+- **Tools:** Python, SQL, R, Power BI, Tableau, SAP ERP
 
 ## 📨 Let's Connect
 If you're seeking a data analyst who combines technical acumen with a knack for uncovering the hidden stories in data, let's connect. 
