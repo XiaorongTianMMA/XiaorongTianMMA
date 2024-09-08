@@ -14,7 +14,10 @@ Hello! I'm Xiaorong, a passionate professional in data analytics, blending exper
 
   **Supply Chain Analyst - Supply Chain Team**
   - Integrated Tableau with SAP database to generate reports on distressed inventory, outlier SKUs, and daily operations, leading to improved sales forecasts, reduced waste, proactive adjustments in production and sales strategies, and enhanced operational efficiency.
+- **Pratt & Whitney**
 
+  **Data Intelligence Strategist, Academic Consultant**
+   - Utilized statistical analytics in Power BI, predictive modeling in Python, and automated maintenance recipes to optimize airplane maintenance processes, enabling clients to reduce operational costs, streamline inventory management, and enhance resource allocation.
 - **Abercrombie & Fitch Co.**
 
   **Marketing Data Analyst - Consumer Relationship Management**
